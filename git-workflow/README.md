@@ -1,16 +1,34 @@
-# React + Vite
+Git Workflow Practice – Day 9
+📌 Objective
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To practice real-world Git and GitHub workflows commonly used in professional development teams, including branching, commits, pull requests, and documentation.
 
-Currently, two official plugins are available:
+📘 Topics Covered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Git repository initialization
 
-## React Compiler
+Branching strategies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Writing meaningful commit messages
 
-## Expanding the ESLint configuration
+Creating and managing pull requests
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Writing a professional README file
+
+🛠️ Workflow Followed
+
+Initialized a Git repository using git init
+
+Created a feature branch for isolated development
+
+Added a new component in the feature branch
+
+Committed changes with clear and descriptive messages
+
+Pushed the feature branch to GitHub
+
+Created a Pull Request (PR) to merge into main
+
+Reviewed and merged the PR
+
+Cleaned up feature branches after merge
